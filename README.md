@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VictorHerrer0
+- 👀 I’m interested in Data analysis and all of its surroundings
+- 🌱 I’m currently learning python as well as SQL to be able to combine it with other platforms such as Power BI
